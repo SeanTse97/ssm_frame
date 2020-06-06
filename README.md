@@ -38,7 +38,7 @@
   SET FOREIGN_KEY_CHECKS = 1;
   ```
 
-- 运行tomcat，在地址栏输入http://localhost:8080/account/list就可以获取数据库对应的表信息
+- 运行tomcat，在地址栏输入 http://localhost:8080/account/list 就可以获取数据库对应的表信息
 
 
 
